@@ -5,5 +5,5 @@ Smart Mapbox turn-by-turn routing based on real-time traffic for React Native. A
 ## Installation
 
 ```sh
-npm install @tarikfp/react-native-navigation-mapbox
+npm install @rapidmedical/react-native-mapbox-navigation
 ```
