@@ -1,5 +1,5 @@
 {
-  "name": "@rapidmedical/react-native-mapbox-navigation",
+  "name": "@rapid-medical-packages/react-native-mapbox-navigation",
   "version": "0.3.2",
   "description": "Smart Mapbox turn-by-turn routing based on real-time traffic for React Native.",
   "main": "lib/commonjs/index",
@@ -41,7 +41,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/Rapid-Medical/react-native-mapbox-navigation-v1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rapid-Medical/react-native-mapbox-navigation-v1.git"
+  },
   "author": "RapidMedical (https://github.com/Rapid-Medical)",
   "license": "MIT",
   "bugs": {
